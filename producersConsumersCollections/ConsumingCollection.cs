@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace DirScanDomain.CustomCollections
+namespace ProducersConsumersCollections
 {
     //Collection that provides access to shared resources from multiple threads.
     public class ConsumingCollection<T> : IDisposable
